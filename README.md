@@ -5,7 +5,8 @@
 
 - 🌱 Estou atualmente me desenvolvendo em **Python, estatística aplicada com foco em dados**
 
-- 📫 Como me encontrar: **jonnybarcelos010233@gmail.com**,Linkedin:**https://www.linkedin.com/in/jonny-barcelos**
+- 📫 Como me encontrar: **jonnybarcelos010233@gmail.com**
+- Linkedin:**https://www.linkedin.com/in/jonny-barcelos**
 
 - 📄 Sobre minhas experiências: Minha trajetória profissional começou na área de educação, atuando como professor de inglês em grandes escolas de idiomas, experiência que contribuiu para o desenvolvimento da minha comunicação, didática e capacidade de transmitir informações de forma clara.
 
